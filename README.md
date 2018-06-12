@@ -32,7 +32,7 @@ Indian franchises App for Item catalog project This is a python module that crea
 
 * Install the dependency libraries (Flask, sqlalchemy, requests and oauth2client) by running pip install (Flask, sqlalchemy, requests and oauth2client).
 
-* Run menu.py.
+* Run Teams.py.
 
 * Run project.py
 
